@@ -1,0 +1,3 @@
+enum JoogiTyyp {
+	PUUDUB, VESI, APELSINIMAHL, KOHV
+}
